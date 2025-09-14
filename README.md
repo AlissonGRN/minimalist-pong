@@ -16,10 +16,6 @@ The result is a functional and fun game that covers everything from basic game l
 
 ---
 
-## ✨ Features
-
----
-
 ## 🛠️ Tech Stack
 
 * **Framework:** [LÖVE 2D](https://love2d.org) (version 11.3)
