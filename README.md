@@ -31,7 +31,7 @@ To run this project, you will need to have LÖVE installed on your system.
 
 2.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/AlissonGRN/minimalist-pong.git](https://github.com/AlissonGRN/minimalist-pong.git)
+    git clone https://github.com/AlissonGRN/minimalist-pong.git
     ```
 
 3.  **Run the game:** Navigate to the project folder in your terminal and run the command:
